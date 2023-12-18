@@ -334,11 +334,6 @@ body {
 
 /* Customers Section */
 
-.customers-section {
-  display: flex;
-  margin: 120px 0px;
-}
-
 .customers-title {
   margin-bottom: 72px;
 }
@@ -351,6 +346,11 @@ body {
 .customers-item {
   height: 88px;
   width: calc((100% - 120px) / 6);
+}
+
+.customers-section {
+  display: flex;
+  margin: 120px 0;
 }
 
 .customers-link {
