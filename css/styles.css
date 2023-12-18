@@ -366,7 +366,7 @@ body {
 }
 
 .customers-link:hover,
-.customers-link:active {
+.customers-link:focus {
   border-color: #404bbf;
   fill: #404bbf;
   color: #404bbf;
