@@ -350,7 +350,7 @@ body {
 
 .customers-section {
   display: flex;
-  margin: 120px 0;
+  padding: 120px 0;
 }
 
 .customers-link {
