@@ -1,15 +1,15 @@
 # goit-markup-hw-01
 
-First Homework
+First Homework- Insert all text in HTML.
 
 # goit-markup-hw-02
 
-Second Homework
+Second Homework- Put class in CSS.
 
 # goit-markup-hw-03
 
-Third Homework
+Third Homework- Put Flexbox.
 
 # goit-markup-hw-04
 
-Fourth Homework
+Fourth Homework- Put SVG images and box-shadow.
